@@ -1,0 +1,52 @@
+.navbar-inverse
+{
+    background-color:#63354E;
+    
+   
+}
+
+#logo{
+    height:150px;
+    width: 250px;
+    margin-left: 550px;
+}
+#header{
+    background-color:#63354E;
+    padding-bottom:0px;
+    padding-top:10px;
+}
+
+#menucolor1{
+    margin-left:px;
+    margin-right:10px;
+    color:#FFFF00;
+    font-size: 15px;
+    font-weight: bold;
+}
+#menucolor2{
+    color:#FFFF00;
+    margin-right:10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#menucolor3{
+    color:#FFFF00;
+    margin-left: 600px;
+    margin-right:10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+#menucolor4{
+    color:#FFFF00;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right:10px;
+}
+#tag{
+    color:white;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-weight: bold;
+
+}
